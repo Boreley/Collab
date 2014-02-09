@@ -1,7 +1,7 @@
 package bore.visual;
 
 import org.lwjgl.*;
-import org.lwjgl.input.Keyboard;
+import org.lwjgl.input.*;
 import org.lwjgl.opengl.*;
 
 public class frame {
